@@ -1,17 +1,18 @@
-## <Hello, world! I'm Monique />
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/moniqueazv13)](https://github.com/moniqueazv13)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/desenvolvedoramobile-monique)](https://www.linkedin.com/in/desenvolvedoramobile-monique)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:monique.azevedo13022@gmail.com)](mailto:monique.azevedo13022@gmail.com/)
+## <Hello, world. I'm Lucas. />
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fell-lucas/fell-lucas)](https://github.com/fell-lucas/fell-lucas)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fell/)](https://www.linkedin.com/in/lucas-fell/)
   
-<br/> Gatos e programação são a minha religião. 🙏 
+<br/> "Life happens wherever you are, whether you make it or not." 
+<img justify="center" align="right" width="150" height="215" src="./img.png">
 
-<br/>.🎮 Gamer Girl.
-<br/>.💚 "Kotlin first".
-<img justify="center" align="right" width="300" height="156" src="https://user-images.githubusercontent.com/67206555/111714434-650b9e00-8830-11eb-8606-8d966b06937a.png">
-<br/>.📚 Bacharel em Ciência da Computação.
-<br/>.🌍 Idiomas: Português, Espanhol e aprendendo Inglês.
-<br/>.🌱 Aprendendo a desenvolver com Kotlin. 
-<br/>.💻 Aluna da Digital House de Mobile Android.
+<br/>.☕ Coffee Lover.
+<br/>.🎮 Nerd.
+<br/>.🎼 Electric guitar and indie beats.
+<br/>.🌌 Curious about the universe and our minds.
+<br/>.📚 Software Engineering student 4/9 semesters.
+<br/>.🌍 Portuguese, English.
+<br/>.🌱 Learning React and TypeScript. 
 
-"Quando o deixei, eu era só o aprendiz, agora eu sou o mestre." - Darth Vader 
+“If you don't have a plan, you become part of somebody else's plan.”
+― Terence McKenna
 <hr/>
