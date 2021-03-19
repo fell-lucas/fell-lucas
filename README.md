@@ -3,7 +3,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fell/)](https://www.linkedin.com/in/lucas-fell/)
   
 <br/> "Life happens wherever you are, whether you make it or not." 
-<img justify="center" align="right" width="150" height="215" src="./img.png">
+<img justify="center" align="right" width="175" height="230" src="./img.png">
 
 <br/>.☕ Coffee Lover.
 <br/>.🎮 Nerd.
