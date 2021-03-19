@@ -8,7 +8,7 @@
 <br/>.☕ Coffee Lover.
 <br/>.🎮 Nerd.
 <br/>.🎼 Electric guitar and indie beats.
-<br/>.🌌 Curious about the universe and our minds.
+<br/>.🌌 Curious about the universe and the human mind.
 <br/>.📚 Software Engineering student 4/9 semesters.
 <br/>.🌍 Portuguese, English.
 <br/>.🌱 Learning React and TypeScript. 
