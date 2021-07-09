@@ -9,6 +9,7 @@
 <br/>.🌍 Portuguese, English.
 <img justify="center" align="right" width="175" height="230" src="./img.png">
 <br/>.🌱 Learning React and TypeScript. 
+<br/>.🌐 <a target="_blank" href="fell-lucas.github.io">Portfolio / Resume ![fa-external-link](external-link-alt-solid.svg)</a>
 
 “If you don't have a plan, you become part of somebody else's plan.”
 ― Terence McKenna
