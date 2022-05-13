@@ -5,7 +5,7 @@
 <br/>.☕ Coffee Lover.
 <br/>.🎼 Electric guitar and indie beats.
 <br/>.🌌 Curious about the universe and the human mind.
-<br/>.📚 Software Engineering student 4/9 semesters.
+<br/>.📚 Software Engineering student 7/9 semesters.
 <br/>.🌍 Portuguese, English.
 <img justify="center" align="right" width="175" height="230" src="./img.png">
 <br/>.🌱 Learning React and TypeScript. 
