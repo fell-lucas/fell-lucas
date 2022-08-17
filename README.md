@@ -1,5 +1,5 @@
 ## <Hello, world. I'm Lucas. />
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fell-lucas/fell-lucas)](https://github.com/fell-lucas/fell-lucas)
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fell-lucas/fell-lucas)](https://github.com/fell-lucas)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fell/)](https://www.linkedin.com/in/lucas-fell/)
   
 <br/>.☕ Coffee Lover.
