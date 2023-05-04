@@ -25,7 +25,7 @@ I'm a mid-level full-stack developer that is always tinkering with tech stuff. I
 
 - 🌍 I speak Portuguese.
 - 🌊 I'm learning to swim.
-- 🪐 I'm into psychology and the enigmatic realms of the universe 
+- 🪐 I'm into psychology and the enigmatic realms of the universe.
 
 Feel free to check out my repositories and give me a shout if you'd like to collaborate on a project or just want to chat!
 
