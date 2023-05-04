@@ -4,7 +4,8 @@ I'm a mid-level full-stack developer that is always tinkering with tech stuff. I
 
 ## 🔭 What I'm currently working on
 
-- Developing a SaaS platform for university professors and students alike about outreach activities. (repo is private, but we may open source it sometime)
+- Developing a [SaaS platform](https://dev-extensionly.vercel.app) for university professors and students alike about outreach activities. (repo is private, but we may open source it sometime)
+- Employed by BMW to work full-stack on their customer app, [MyBMW](https://flutter.dev/showcase/bmw). Not open source unfortunately...
 
 ## 🌱 What I'm currently learning
 
