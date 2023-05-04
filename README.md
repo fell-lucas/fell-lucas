@@ -4,7 +4,7 @@
   
 I'm a software engineering graduate and a mid-level full-stack developer with about 2 years of industry. I have a passion for building well-architected software and I also spend a lot of time tinkering with tech stuff.
 
-<br/>🌌 Curious about the universe and the human mind.
+🌌 Curious about the universe and the human mind.
 <br/>📚 Software Engineering graduate.
 <br/>🌍 Portuguese, English.
 <img justify="center" align="right" width="175" height="230" src="./img.png">
