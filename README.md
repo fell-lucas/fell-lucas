@@ -4,9 +4,8 @@ I'm a mid-level full-stack developer that is always tinkering with tech stuff. I
 
 ## 🔭 What I'm currently working on
 
-- Developing a [SaaS platform](https://dev-extensionly.vercel.app) for university professors and students alike about outreach activities. (repo is private, but we may open source it sometime)
-- Employed by BMW to work full-stack on their customer app, [MyBMW](https://flutter.dev/showcase/bmw). Not open source unfortunately...
-
+- Building a [SaaS platform](https://extensipro.com) for university professors and students alike about outreach activities.
+- Employed by BMW to work full-stack on their customer app, [MyBMW](https://flutter.dev/showcase/bmw).
 ## 🌱 What I'm currently learning
 
 - Astro
@@ -21,12 +20,6 @@ I'm a mid-level full-stack developer that is always tinkering with tech stuff. I
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fell/)](https://www.linkedin.com/in/lucas-fell/)
 
 <img justify="center" align="right" width="175" height="230" src="./img.png">
-
-## ⚡ Fun facts about me
-
-- 🌍 I speak Portuguese.
-- 🌊 I'm learning to swim.
-- 🪐 I'm into psychology and the enigmatic realms of the universe.
 
 Feel free to check out my repositories and give me a shout if you'd like to collaborate on a project or just want to chat!
 
