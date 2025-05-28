@@ -1,10 +1,10 @@
 # Hello, welcome to my GitHub.
 
-I'm a senior software engineer always tinkering with new and exciting technologies. I have a strong background in Flutter, Nodejs, TypeScript, Nestjs, and I'm always eager to learn and experiment with new, cutting-edge technologies.
+I'm a senior software engineer always tinkering with new and upcoming technologies. I have a strong background in Flutter, Nodejs, TypeScript, Nestjs, and I'm always eager to learn and experiment with whatever is new in my area.
 
 ## 🔭 What I'm currently working on
 
-- Building a [SaaS platform](https://extensipro.com) for university professors and students alike about outreach activities.
+- Building a [SaaS platform](https://extensipro.com) for university professors and students alike about outreach activities. I plan to monetize this in the future, which is why the project is currently closed source. Let me know if you would like a tour on it, and I'm happy to guide you through the source code. Feel free to test and play around in our development environment at https://dev.extensipro.com/en-US/activities.
 - Employed by BMW to work full-stack on their customer app, [MyBMW](https://flutter.dev/showcase/bmw).
 
 ## 🌱 What I'm studying
