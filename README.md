@@ -4,7 +4,7 @@ I'm a senior software engineer always tinkering with new and upcoming technologi
 
 ## 🔭 What I'm currently working on
 
-- Building a [SaaS platform](https://extensipro.com/en-US/activities) for university professors and students alike about outreach activities. I plan to monetize this in the future, which is why the project is currently closed source. Let me know if you would like a tour on it, and I'm happy to guide you through the source code.
+- Building a [SaaS platform](https://extensipro.com/en-US/activities) for university professors and students alike about outreach activities. I plan to monetize this in the future, which is why the project is currently closed source. Let me know if you would like a tour on it, and I'm happy to guide you through the source code. It started as a [React/Nextjs](https://nextjs.org/) project and was later rewritten in [Svelte/SvelteKit](https://svelte.dev/). It uses [Turso](https://turso.tech/) as it's database and is deployed globally as a [Cloudflare Pages](https://pages.cloudflare.com/) application.
 - Employed by BMW to work full-stack on their customer app, [MyBMW](https://flutter.dev/showcase/bmw).
 
 ## 🌱 What I'm studying
