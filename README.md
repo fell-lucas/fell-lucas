@@ -18,6 +18,6 @@ I'm a senior software engineer always tinkering with new and upcoming technologi
 
 - Send an e-mail to lucasafell@gmail.com
 - 📝 Take a look in my [blog](https://fell.pages.dev) for occasional writings and thoughts about technology.
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-fell/)](https://www.linkedin.com/in/lucas-fell/)
+- Check out my LinkedIn profile at https://www.linkedin.com/in/lucas-fell
 
 Feel free to check out the pinned repositories and give me a shout if you'd like to collaborate on a project or just want to chat!
